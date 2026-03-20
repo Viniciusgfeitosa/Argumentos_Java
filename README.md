@@ -10,9 +10,12 @@ String[] args
 
 # 💻 Código do projeto
 public class Argumentos {
+
     public static void main(String[] args) {
+    
         System.out.println("Você digitou " + args[0]);
     }
+    
 }
 
 # 💻 Exemplo de funcionamento
